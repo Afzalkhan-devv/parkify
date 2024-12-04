@@ -1,5 +1,6 @@
 # parkify
 ![image](https://github.com/user-attachments/assets/ae4a0806-14d9-4571-b463-6112dd0fa7cc)
+🚀🚌🚀
 Parkify is a web-based application designed to help users find and book parking spaces in real-time. This application leverages modern technologies such as React, Spring Boot, Hibernate, and MySQL to provide a smooth and efficient parking experience.
 
 ## Features
