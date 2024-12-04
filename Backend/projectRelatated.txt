@@ -1,0 +1,15 @@
+insert into user_tbl(lname,email,fname,mobile,password,user_role)values('tiwade','test@123.com','rajat','9158123123','123123','USER');
+
+{
+        "firstName": "Rama",
+        "lastName": "javaee",
+        "email": "test12@123",
+        "password": "123123",
+        "userRole": "USER",
+        "mobNo": "91583402198"
+     
+}
+insert into parking(city,location,park_name,number_of_slots,vehicle_type)values('pune','peth','vire',30,'Fourwheeler');
+insert into fare_card (item_id,fare_charges,vehicle_type)values('1',1,'twowheeler'),('2',20,'fourwheeler');
+insert into vehicle_details(vehicle_no,vehicle_type,user_id)values('12abc','fourwheeler','1');
+insert into bookings (exit_time,slot_number,entry_time,park_id,user_id,v_id) values ('2022-08-09T04:00:00',1,'2022-08-09T02:00:00',1,1,1);

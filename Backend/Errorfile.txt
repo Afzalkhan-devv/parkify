@@ -1,0 +1,6 @@
+"org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `java.time.LocalDateTime` from String
+
+
+for null dates in payments ---------Null return value from advice does not match primitive return type for: public abstract double com.parking.repository.PaymentRepository.findByPaymentDate(java.time.LocalDateTime,java.time.LocalDateTime)",
+
+for native query not written in query u will get this exception------org-hibernate-hql-internal-ast-querysyntaxexception-table-is-not-mapped
